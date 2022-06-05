@@ -1,1 +1,10 @@
-{"name":"heroku-log-bot","version":"1.0.0","description":"heroku log bot for marvin","main":"bot.js","author":"a crackhead","dependencies":{"discord.js":"^13.7.0",}}
+{
+  "name": "heroku-log-bot",
+  "version": "1.0.0",
+  "description": "heroku log bot for marvin",
+  "main": "bot.js",
+  "author": "a crackhead",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
